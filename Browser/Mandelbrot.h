@@ -2,7 +2,6 @@
 #define MANDEL_H
 
 #include "EasyBMP.h"
-#include <SFML/Graphics.hpp>
 #include <complex>
 #include <iostream>
 #include <utility>
