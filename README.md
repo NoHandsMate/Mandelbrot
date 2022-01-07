@@ -12,3 +12,4 @@ To change the color of the plot, you need to modify the MAX_ITER variable. Chang
 
 With 1000 iterations:
 
+![Alt text](Browser/1000_iter.bmp?raw=true)
